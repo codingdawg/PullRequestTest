@@ -13,5 +13,7 @@ namespace Hello.App
         public string DOB { get;  set; }
 
         public string MaritalStatus { get;  set; }
+
+        public string Address { get;  set; }
     }
 }
